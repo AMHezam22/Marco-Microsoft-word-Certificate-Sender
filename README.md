@@ -23,12 +23,13 @@ This repository contains a VBA macro script (`GenerateCertificates.bas`) that au
 1. **Download this repository** or copy `GenerateCertificates.bas`
 2. Open your `.docm` Word certificate template
 3. Press `Alt + F11` to open the VBA editor
-4. Go to `File > Import File...`, and select `GenerateCertificates.bas`
-5. Save the Word file as **`.docm`**
-6. Prepare an Excel file:
+5. Go to `File > Import File...`, and select `GenerateCertificates.bas`
+6. Set the excel file path at line 25 from `GenerateCertificates.bas`
+7. Save the Word file as **`.docm`**
+8. Prepare an Excel file:
     - Column A: Full Name  
     - Column B: Email Address  
-7. Run the macro `GenerateAndEmailCertificates` from Word
+9. Run the macro `GenerateAndEmailCertificates` from Word
 
 ## 📝 Excel Format Example
 
