@@ -48,11 +48,6 @@ If macros are disabled on your system:
 - Choose **"Disable all macros with notification"**
 - Click **"Enable Content"** when prompted
 
-## 📦 File Structure
-📁 your-repo/
-├─ GenerateCertificates.bas   # The macro script
-└─ README.md                  # This file
-
 ## 🧑‍💻 Author
 
 Developed by [Abdulrahman M Hezam].  
